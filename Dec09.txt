@@ -1,0 +1,11 @@
+Commands:
+1) ls : used to view all the directories/ files
+2) cd : change directory, also helps to come back to the root directory
+3) cd .. : comes a step back in terms of path
+4) pwd : present working directory
+5) mkdir : used to create a folder/directory.
+6) touch : used to create a file
+7) cp source destinaion :
+8) rmdir : used to delete an empty directory
+9) mv : 
+10) rm -r folder : deletes all the files and then deletes the whole directory
